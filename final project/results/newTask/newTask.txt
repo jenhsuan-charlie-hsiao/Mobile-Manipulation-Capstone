@@ -1,0 +1,67 @@
+Jen_hsuan_Hsiao
+
+a =
+
+     4
+
+
+Num_Configurations =
+
+        4000
+
+
+Kp =
+
+     3     0     0     0     0     0
+     0     3     0     0     0     0
+     0     0     3     0     0     0
+     0     0     0     3     0     0
+     0     0     0     0     3     0
+     0     0     0     0     0     3
+
+
+Ki =
+
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+
+compare the initial guess with the Xd,1
+initial_guess value of X1
+
+ans =
+
+    1.0000         0         0    0.1992
+         0    1.0000         0         0
+         0         0    1.0000    0.7535
+         0         0         0    1.0000
+
+Xd,1 value
+
+ans =
+
+         0         0    1.0000         0
+         0    1.0000         0         0
+   -1.0000         0         0    0.5000
+         0         0         0    1.0000
+
+Show the Xerr of the first and final configuration
+initial Xerr
+
+ans =
+
+         0    1.5708         0    0.0426         0   -0.3555
+
+last Xerr
+
+ans =
+
+   1.0e-05 *
+
+         0         0         0   -0.0511    0.0000    0.5558
+
+end of program
+diary off
