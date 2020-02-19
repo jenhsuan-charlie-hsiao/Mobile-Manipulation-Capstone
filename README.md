@@ -5,8 +5,8 @@ A short description of the project from the course website: "In your capstone pr
 
 Demo videos
 a. The best case: https://youtu.be/XOeeaPijz6w
-b. The overshoot case: https://youtu.be/X4YhKIgxaWY
-c. The new task case: https://youtu.be/iBPR3c6kQDE
+<br>b. The overshoot case: https://youtu.be/X4YhKIgxaWY
+<br>c. The new task case: https://youtu.be/iBPR3c6kQDE
 
 Please refer to the following link for the full description of the project
 http://hades.mech.northwestern.edu/index.php/Mobile_Manipulation_Capstone#Final_Step:_Completing_the_Project_and_Your_Submission
